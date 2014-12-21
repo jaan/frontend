@@ -20,6 +20,9 @@ http://jonassebastianohlsson.com/specificity-graph/
 High Performance Networking in Google Chrome  
 https://www.igvita.com/posa/high-performance-networking-in-google-chrome/ 
 
+How Browsers Work  
+http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/  
+
 Introduction to Service Worker
 http://www.html5rocks.com/en/tutorials/service-worker/introduction/  
 
@@ -29,3 +32,6 @@ http://jankfree.org/
 
 Chrome devsummit site  
 https://developer.chrome.com/devsummit/sessions/
+
+Project Euler Solutions  
+https://github.com/nayuki/Project-Euler-solutions  
