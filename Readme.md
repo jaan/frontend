@@ -18,4 +18,11 @@ http://jonassebastianohlsson.com/specificity-graph/
 
 #Browsers
 High Performance Networking in Google Chrome  
-https://www.igvita.com/posa/high-performance-networking-in-google-chrome/  
+https://www.igvita.com/posa/high-performance-networking-in-google-chrome/ 
+
+Introduction to Service Worker
+http://www.html5rocks.com/en/tutorials/service-worker/introduction/  
+
+#Others
+All things related to jank free sites
+http://jankfree.org/
