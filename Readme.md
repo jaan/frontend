@@ -1,12 +1,14 @@
 Frontend
 ================
 #JAVASCRIPT
-Performance evangelists
+Performance evangelists  
 http://www.perf.rocks/people/ 
 
-Must-watch videos about javascript (2014-2009) 
+Must-watch videos about javascript (2014-2009)  
 https://github.com/bolshchikov/js-must-watch  
 
+Airbnb javascript guide  
+https://github.com/airbnb/javascript  
 
 #CSS
 CSS Specificity Graph Generator  
