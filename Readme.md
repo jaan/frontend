@@ -10,6 +10,9 @@ https://github.com/bolshchikov/js-must-watch
 Airbnb javascript guide  
 https://github.com/airbnb/javascript  
 
+The Definitive Guide to Object-Oriented JavaScript  
+https://www.youtube.com/watch?v=PMfcsYzj-9M  
+
 #CSS
 CSS Specificity Graph Generator  
 http://jonassebastianohlsson.com/specificity-graph/  
