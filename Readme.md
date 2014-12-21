@@ -2,9 +2,10 @@ Frontend
 ================
 #JAVASCRIPT
 Performance evangelists
-http://www.perf.rocks/people/  
+http://www.perf.rocks/people/ 
 
-
+Must-watch videos about javascript (2014-2009) 
+https://github.com/bolshchikov/js-must-watch  
 
 
 #CSS
@@ -23,7 +24,7 @@ https://www.igvita.com/posa/high-performance-networking-in-google-chrome/
 How Browsers Work  
 http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/  
 
-Introduction to Service Worker
+Introduction to Service Worker  
 http://www.html5rocks.com/en/tutorials/service-worker/introduction/  
 
 #Others  
