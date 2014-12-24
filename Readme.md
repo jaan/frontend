@@ -2,8 +2,8 @@ Frontend
 ================
 #JAVASCRIPT
 
-Talk on ES6 and ES7 (Object.observe, async functions and async generators)
-http://youtu.be/DqMFX91ToLw 
+Talk on ES6 and ES7 (Object.observe, async functions and async generators)  
+http://youtu.be/DqMFX91ToLw  
 
 Performance evangelists  
 http://www.perf.rocks/people/ 
