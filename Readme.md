@@ -45,3 +45,6 @@ https://developer.chrome.com/devsummit/sessions/
 
 Project Euler Solutions  
 https://github.com/nayuki/Project-Euler-solutions  
+
+How To Migrate To HTTPS?
+https://docs.google.com/document/d/1oRXJUIttqQxuxmjj2tgYjj096IKw4Zcw6eAoIKWZ2oQ/preview?sle=true&hl=en&forcehl=1
