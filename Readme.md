@@ -36,6 +36,9 @@ http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 Introduction to Service Worker  
 http://www.html5rocks.com/en/tutorials/service-worker/introduction/  
 
+Preventing Layout thrashing (60fps)
+http://wilsonpage.co.uk/preventing-layout-thrashing/
+
 #Others  
 All things related to jank free sites  
 http://jankfree.org/  
