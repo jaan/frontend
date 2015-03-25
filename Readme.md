@@ -52,5 +52,8 @@ https://github.com/nayuki/Project-Euler-solutions
 How To Migrate To HTTPS?
 https://docs.google.com/document/d/1oRXJUIttqQxuxmjj2tgYjj096IKw4Zcw6eAoIKWZ2oQ/preview?sle=true&hl=en&forcehl=1
 
+HTTPS vs HTTP performance?
+https://docs.google.com/presentation/d/1OGulyC9grEXw-wW2VdZdZ99YNO3l3H2l_wgwxEG4GOM/present?slide=id.p19
+
 Perf tooling (All links)  
 http://perf-tooling.today/
