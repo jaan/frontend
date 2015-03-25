@@ -36,7 +36,7 @@ http://www.html5rocks.com/en/tutorials/internals/howbrowserswork/
 Introduction to Service Worker  
 http://www.html5rocks.com/en/tutorials/service-worker/introduction/  
 
-Preventing Layout thrashing (60fps)
+Preventing Layout thrashing (60fps)  
 http://wilsonpage.co.uk/preventing-layout-thrashing/
 
 #Others  
@@ -49,10 +49,10 @@ https://developer.chrome.com/devsummit/sessions/
 Project Euler Solutions  
 https://github.com/nayuki/Project-Euler-solutions  
 
-How To Migrate To HTTPS?
+How To Migrate To HTTPS?  
 https://docs.google.com/document/d/1oRXJUIttqQxuxmjj2tgYjj096IKw4Zcw6eAoIKWZ2oQ/preview?sle=true&hl=en&forcehl=1
 
-HTTPS vs HTTP performance?
+HTTPS vs HTTP performance?  
 https://docs.google.com/presentation/d/1OGulyC9grEXw-wW2VdZdZ99YNO3l3H2l_wgwxEG4GOM/present?slide=id.p19
 
 Perf tooling (All links)  
