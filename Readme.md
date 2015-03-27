@@ -55,5 +55,9 @@ https://docs.google.com/document/d/1oRXJUIttqQxuxmjj2tgYjj096IKw4Zcw6eAoIKWZ2oQ/
 HTTPS vs HTTP performance?  
 https://docs.google.com/presentation/d/1OGulyC9grEXw-wW2VdZdZ99YNO3l3H2l_wgwxEG4GOM/present?slide=id.p19
 
+Video on Man in the middle attack (MIM) https://www.youtube.com/watch?t=56&v=zEV3HOuM_Vw
+ 
+Confound malicious middlemen with HTTPS and HTTP Strict Transport Security (HSTS) http://www.html5rocks.com/en/tutorials/security/transport-layer-security/
+
 Perf tooling (All links)  
 http://perf-tooling.today/
