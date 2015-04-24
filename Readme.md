@@ -21,7 +21,9 @@ https://www.youtube.com/watch?v=PMfcsYzj-9M
 CSS Specificity Graph Generator  
 http://jonassebastianohlsson.com/specificity-graph/  
 
-
+#Event Loop
+https://www.youtube.com/watch?v=8aGhZQkoFbQ
+http://latentflip.com/loupe/
 
 #HTML
 
