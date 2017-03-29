@@ -25,6 +25,9 @@ http://jonassebastianohlsson.com/specificity-graph/
 https://www.youtube.com/watch?v=8aGhZQkoFbQ  
 http://latentflip.com/loupe/
 
+Functional Programming  
+https://github.com/hemanth/functional-programming-jargon  
+
 #HTML
 
 
