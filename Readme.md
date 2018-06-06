@@ -74,3 +74,6 @@ http://perf-tooling.today/
 
 Content Security Policy (CSP)  
 http://www.html5rocks.com/en/tutorials/security/content-security-policy/
+
+## Javascript Data Structures and algorithms  
+https://github.com/loiane/javascript-datastructures-algorithms
